@@ -4,4 +4,4 @@
 
 -Memory Managment
 
--Processes, threads, and synchronization
+-Processes, threads, and synchronization. E.g MUTEX and Deadlock management
