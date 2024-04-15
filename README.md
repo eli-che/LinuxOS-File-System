@@ -1,3 +1,5 @@
 # LinuxOS-File System
  
-File system managment in Linux OS with Open, Write, Format and Dump.
+-File system managment with Open, Write, Format and Dump.
+-Memory Managment
+-Processes, threads, and synchronization
